@@ -8,6 +8,11 @@ This project visualizes U.S. Presidential Election data from 1976 to 2020, highl
 - Bar chart for Electoral College results
 - Ready-to-use CSV data
 
+## Demo Video
+
+[Watch the explanation video on Google Drive](https://drive.google.com/file/d/1wlaRXsxPWgDclVnrO_Y-19kP9M4PvAW_/view?usp=sharing)
+
+
 ## Setup
 
 ```bash
